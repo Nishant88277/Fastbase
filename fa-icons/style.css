@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'icons';
+  src:  url('fonts/icons.eot?jwyy97');
+  src:  url('fonts/icons.eot?jwyy97#iefix') format('embedded-opentype'),
+    url('fonts/icons.ttf?jwyy97') format('truetype'),
+    url('fonts/icons.woff?jwyy97') format('woff'),
+    url('fonts/icons.svg?jwyy97#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-circles:before {
+  content: "\e900";
+}
+.icon-send:before {
+  content: "\e901";
+}
+.icon-globe:before {
+  content: "\e902";
+}
+.icon-check:before {
+  content: "\e903";
+}
+.icon-download:before {
+  content: "\e904";
+}
+.icon-id2:before {
+  content: "\e905";
+}
+.icon-id:before {
+  content: "\e906";
+}
+.icon-search1:before {
+  content: "\e907";
+}
+.icon-tablet:before {
+  content: "\e908";
+}
+.icon-phone1:before {
+  content: "\e909";
+}
+.icon-building:before {
+  content: "\e90a";
+}
+.icon-phone:before {
+  content: "\e90b";
+}
+.icon-mail:before {
+  content: "\e90c";
+}
+.icon-search:before {
+  content: "\e90d";
+}
+.icon-more:before {
+  content: "\e90e";
+}
+.icon-binoculors:before {
+  content: "\e90f";
+}
+.icon-desktop:before {
+  content: "\e910";
+}
+.icon-www:before {
+  content: "\e911";
+}
